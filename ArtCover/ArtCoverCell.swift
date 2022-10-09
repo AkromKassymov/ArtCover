@@ -9,4 +9,6 @@ import UIKit
 
 class ArtCoverCell: UICollectionViewCell {
     
+    @IBOutlet weak var coverImageVIew: UIImageView!
+    
 }
